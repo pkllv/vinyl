@@ -59,7 +59,7 @@ html, body {
     position: relative;
     z-index: 2;
     bottom: 20px;
-    top: -120%;
+    top: -122%;
     left: -40%;
     margin: 40px;
     background: white;
@@ -87,7 +87,7 @@ html, body {
     z-index: 2;
     top: -90%;
     left: 28%;
-    margin: -60px 15%;
+    margin: -60px 16%;
     width: 300px;
     height: 300px;
     font-family: 'Shrikhand';
