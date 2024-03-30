@@ -1,5 +1,5 @@
 let state = false;
-let btn = document.querySelector(".btn");
+let btn = document.querySelector(".buttons");
 let record = document.querySelector(".record");
 let tonearm = document.querySelector(".tone-arm");
 let song = document.querySelector(".vmusic");
