@@ -2,7 +2,7 @@ let state = false;
 let btn = document.querySelector(".btn");
 let record = document.querySelector(".record");
 let tonearm = document.querySelector(".tone-arm");
-let song = document.querySelector(".longdistance");
+let song = document.querySelector(".vmusic");
 let slider = document.querySelector(".slider");
 
 btn.addEventListener("click", () => {
